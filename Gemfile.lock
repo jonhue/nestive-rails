@@ -76,7 +76,7 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.9.0)
     rspec-support (3.9.0)
-    rubocop (0.77.0)
+    rubocop (0.78.0)
       jaro_winkler (~> 1.5.1)
       parallel (~> 1.10)
       parser (>= 2.6)
@@ -100,4 +100,4 @@ DEPENDENCIES
   rubocop (~> 0.52)
 
 BUNDLED WITH
-   2.0.1
+   2.1.2
