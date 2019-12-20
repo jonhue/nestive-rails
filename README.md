@@ -281,7 +281,7 @@ nestive-rails works the same way `content_for` does and has the same caching dra
 
 4. Run tests
 
-    `$ bundle exec rake test`
+    `$ bundle exec rspec`
 
 5. Run RuboCop
 
